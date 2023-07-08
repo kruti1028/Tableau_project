@@ -4,13 +4,14 @@
 In this project, my objective is to transform complex data into visually appealing and easily understandable insights through the power of Tableau and I will design a compelling dashboard that effectively communicates key findings and supports data-driven decision-making. By selecting and creating appropriate visualizations, I will ensure that insights are conveyed accurately and comprehensively to the intended audience.
 
 ## Process
-Step 1: Importing the TB Dataset into Tableau and establishing a connection.
-Step 2: Reviewing and adjusting the data types as needed within Tableau.
-Step 3: Constructing various visualizations to gain insights into the dataset.
-Step 4: Exploring the data for patterns, trends, outliers, and other noteworthy observations.
-Step 5: Identifying significant findings and key points within the dataset.
-Step 6: Generating new relevant questions based on the data analysis.
-Step 7: Designing and building a comprehensive dashboard that addresses the identified 
+
+ 1. Importing the TB Dataset into Tableau and establishing a connection.
+ 2. Reviewing and adjusting the data types as needed within Tableau.
+ 3. Constructing various visualizations to gain insights into the dataset.
+ 4. Exploring the data for patterns, trends, outliers, and other noteworthy observations.
+ 5. Identifying significant findings and key points within the dataset.
+ 6. Generating new relevant questions based on the data analysis.
+ 7. Designing and building a comprehensive dashboard that addresses the identified 
 
 ## Results
 I decided to address Option 2, question number 4: Tuberculosis Burden by Country.
