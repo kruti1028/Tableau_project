@@ -49,7 +49,7 @@ Africa and South-East Asia have the lowest average case detection rates for tube
 
 ## Challenges 
 I feel the need to dedicate more practice to parameters and calculated fields as I haven't fully grasped their usage and implementation.
-In general, I find graphs to be a bit challenging to comprehend at the moment. It is a matter of concern, but I am committed to persistently working on improving my understanding and proficiency in this area.
+In general. It is a matter of concern, but I am committed to persistently working on improving my understanding and proficiency in this area.
 
 ## Future Goals
 I will experiment with advanced visualization techniques within Tableau. By incorporating treemaps, network diagrams, or interactive dashboards.
