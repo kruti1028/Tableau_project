@@ -48,7 +48,7 @@ The estimated prevalence of TB(all forms) per 100000 population is higher in Cam
 Africa and South-East Asia have the lowest average case detection rates for tuberculosis (TB), with Africa having a case detection rate of 50.80% and South-East Asia with a case detection rate of 53.50%
 
 ## Challenges 
-I feel the need to dedicate more practice to parameters and calculated fields as I haven't fully grasped their usage and implementation i this data.
+I feel the need to dedicate more practice to parameters and calculated fields as I haven't implemented them in this data. because i feel all the calculation field is available which I want as a parameter feild.
 In general. It is a matter of concern, but I am committed to persistently working on improving my understanding and proficiency in this area.
 
 ## Future Goals
